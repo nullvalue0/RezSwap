@@ -3,7 +3,7 @@
 
 I often find myself needing to switch resolutions before doing screenshares & hate having to go into Display Settings each time to do it. So I wrote this little utility that runs as a tray/notification area icon and allows you to quickly switch between your favorite screen resolutions.
 
-In the settings: 
+In the settings screen, you can: 
 - Choose just the resolutions that you want to see in the menu
 - Enable starting the app automatically with Windows
 - Change the confirmation setting
